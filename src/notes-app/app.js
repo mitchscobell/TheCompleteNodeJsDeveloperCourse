@@ -10,3 +10,4 @@ console.log(validator.isEmail('mitch@scobellis.com'));
 console.log(validator.isURL('https://scobellis.com'));
 
 console.log(chalk.green.bold('Success!'));
+console.log(chalk.blue.bold('WooHoo!'));
