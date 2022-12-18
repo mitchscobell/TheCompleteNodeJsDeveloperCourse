@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "chalk": "^2.4.1",
+    "postman-request": "^2.88.1-postman.31",
     "validator": "^13.6.0"
   }
 }
